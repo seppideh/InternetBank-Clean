@@ -1,0 +1,9 @@
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Threading.Tasks;
+global using InternetBank.Domain.BankAccounts.Entities;
+global using InternetBank.Domain.ApplicationUser.Users.Entities;
+global using InternetBank.Domain.BankAccount.Enums;
+global using InternetBank.Domain.Transactions.Entities;
+global using Microsoft.AspNetCore.Identity;

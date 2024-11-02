@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C#: Internet_Bank-Clean [Default Configuration]",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\InternetBank.Api\\Internet_Bank-Clean.csproj"
+    }
+  ]
+}

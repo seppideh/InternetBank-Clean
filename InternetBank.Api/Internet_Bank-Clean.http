@@ -1,0 +1,6 @@
+@Internet_Bank_Clean_HostAddress = http://localhost:5035
+
+GET {{Internet_Bank_Clean_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
